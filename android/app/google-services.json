@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865573755871",
+    "project_id": "tobeto-flutter",
+    "storage_bucket": "tobeto-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865573755871:android:2707fbb593b447f98c826a",
+        "android_client_info": {
+          "package_name": "com.example.tobeto_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtKKCrEJj01GGh6ztFHsH2bSDrQu0HV-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
